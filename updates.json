@@ -5,8 +5,8 @@
     "version": "0.0.15"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.8/nfs-0.0.8-x86_64.AppImage",
-    "install": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.8/nfs-0.0.8-x86_64.AppImage",
-    "version": "0.0.8"
+    "update": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.16/nfs-0.0.16-x86_64.AppImage",
+    "install": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.16/nfs-0.0.16-x86_64.AppImage",
+    "version": "0.0.16"
   }
 }
