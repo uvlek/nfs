@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.0.17",
-    "install": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.0.17/nfs.Setup.0.0.17.exe",
-    "version": "0.0.17"
+    "update": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.0.18",
+    "install": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.0.18/nfs.Setup.0.0.18.exe",
+    "version": "0.0.18"
   },
   "linux-x64-prod": {
     "update": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.17/nfs-0.0.17-x86_64.AppImage",
