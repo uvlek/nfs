@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.1.3",
-    "install": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.1.3/prostore.Setup.0.1.3.exe",
-    "version": "0.1.3"
+    "update": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.1.4",
+    "install": "https://github.com/uvlek/nfs/releases/download/win32-x64-prod-v0.1.4/prostore.Setup.0.1.4.exe",
+    "version": "0.1.4"
   },
   "linux-x64-prod": {
     "update": "https://github.com/uvlek/nfs/releases/download/linux-x64-prod-v0.0.17/nfs-0.0.17-x86_64.AppImage",
